@@ -11,6 +11,7 @@
 | 🎳 [기숙사 볼링](https://sunlitkoreakorea.github.io/dorm-bowling/) | 10프레임 3D 볼링, 1~4명 | 마우스·터치·키보드·웹캠 손동작 |
 | 🎯 [기숙사 다트](https://sunlitkoreakorea.github.io/dorm-darts/) | 301·501·크리켓·카운트업, 1~4명 | 마우스·터치·키보드 |
 | 🎾 [손 테니스](https://sunlitkoreakorea.github.io/hand-tennis/) | 웹캠으로 치는 Wii 스타일 테니스, vs CPU | 웹캠 손동작·터치패드·키보드·마우스 |
+| ♟️ [3D 체스](https://sunlitkoreakorea.github.io/chess-3d/) | 대리석 기물로 AI와 두는 3D 체스, AI 5단계 | 마우스·터치 |
 
 ## 쓰는 법
 
